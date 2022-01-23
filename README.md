@@ -11,4 +11,5 @@ This project is to make an automation test for one of test case in Gudang Ada. P
 
 # Detail Project
 Technology Used : Java, TestNG, Selenium, Maven
+
 Framework Used: Page Object Model
